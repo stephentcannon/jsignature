@@ -1,0 +1,9 @@
+{
+  "name": "jsignature",
+  "description": "jsignature packaged for meteor for on page signatures",
+  "homepage": "https://github.com/stephentcannon/jsignature",
+  "author": "EtherPOS (http://www.etherpos.com)",
+  "version": "0.0.5",
+  "git": "https://github.com/stephentcannon/jsignature",
+  "packages": {}
+}
